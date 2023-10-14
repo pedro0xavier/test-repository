@@ -1,4 +1,4 @@
 # Repositório teste
-Meu primeiro repositório, criado como forma de teste \n
+Meu primeiro repositório, criado como forma de teste 
 
 Adicionei essa linha diretamente do site 
